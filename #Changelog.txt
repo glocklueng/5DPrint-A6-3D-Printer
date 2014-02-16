@@ -1,0 +1,25 @@
+Changes to original version from Dropbox:
+
+- Fixed all broken constraints
+
+
+Changes to Beta V0:
+
+- Deleted the old spoolholder and drew a different one 
+  used for the betas in-house here
+- Updated print head design for the new PCB 
+  (printhead top/bottom mounting block symmetric now)
+- Added tips on Y guide rails and decreased their length
+- Added 3 bed springs 
+- Added spring caps
+- Updated Casing:
+ - Increased size of uUSB hole
+ - Changed material appearences of the 2 small back panels 
+   to the appearance used for all the others
+- Put screws on hot end (M3x12)
+- Hide visible sketches in main assembly
+- Checked the transparency settings (unhid parts, set left 
+  panels to transparent)
+- Moved hot end to a more centered position
+
+
